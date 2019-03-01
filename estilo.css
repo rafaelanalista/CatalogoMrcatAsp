@@ -1,0 +1,94 @@
+
+			#tudo{
+			width:980;
+			height:1280;	
+			margin: 0 auto;
+		    }
+
+
+			#topo{
+			height:150px;
+			
+			width:970px;
+			
+			}
+		
+			.busca{
+			height:50;
+			width:500;
+			
+			}
+			
+			form{
+			position:relative;
+			left: 260px;
+			top: 20px;
+			
+			
+			}
+
+
+			.btn{
+			background-color:black;
+			border:none;
+			height:50;
+			width:70;
+			color:white;
+			
+			}
+			#esquerda{
+			float:left;
+			width:200;
+			font-family: Arial;
+			height:1000;
+			font-size:14px;
+			font-family:Lucida Sans;
+			
+
+			}
+
+
+			#direito{
+			float:right;
+			width:750;
+			height:980;
+			}
+
+
+
+			#TOPO2{
+			FONT-FAMILY:Lucida Sans;
+			text-align:right;
+			}
+
+			A{
+			text-decoration:none;
+			color:black;
+			}
+
+			a:hover {
+			background-color:black;
+			color:white;
+			}
+
+			.sexo{
+				PADDING:10PX;
+				MARGIN:9PX;
+				font-family: ARIAL;
+				background-color:black;
+				width:110;
+				color:white;
+
+			}
+			.sexo a{
+
+				color:white;
+			}
+			.sexo a:hover{
+				background-color:white;
+				color:black;
+
+
+
+			}
+		
